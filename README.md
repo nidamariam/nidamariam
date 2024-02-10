@@ -3,6 +3,6 @@
 This is Nida, student from Portland State University and a passionate software developer. 
 I'm interested in problem solving and cybersecurity. 
 
-Actively looking for full-time roles in Software Engineering. 
+Actively looking for internship roles in Software Engineering. 
 
 Ping me at: nidama@pdx.edu or nidamariam22@gmail.com
